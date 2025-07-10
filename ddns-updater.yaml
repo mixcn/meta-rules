@@ -1,12 +1,12 @@
 payload:
-    - +.ipify.org
-    - +.ifconfig.io
-    - +.ipinfo.io
-    - +.spdyn.de
-    - +.ipleak.net
-    - +.icanhazip.com
-    - +.ident.me
-    - +.nnev.de
-    - +.wtfismyip.com
-    - +.seeip.org
-    - +.changeip.com
+- DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,ifconfig.io
+- DOMAIN-SUFFIX,ipinfo.io
+- DOMAIN-SUFFIX,spdyn.de
+- DOMAIN-SUFFIX,ipleak.net
+- DOMAIN-SUFFIX,icanhazip.com
+- DOMAIN-SUFFIX,ident.me
+- DOMAIN-SUFFIX,nnev.de
+- DOMAIN-SUFFIX,wtfismyip.com
+- DOMAIN-SUFFIX,seeip.org
+- DOMAIN-SUFFIX,changeip.com
